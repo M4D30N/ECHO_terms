@@ -1,4 +1,4 @@
-# Terms of Service of the bot ECHO 2.0
+# Terms of Service of the bot ECHO
 
 Last updated: July 7, 2022
 
