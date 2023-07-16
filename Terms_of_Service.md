@@ -1,4 +1,4 @@
-# Terms of Service of the bot ECHO
+# Terms of Service of the bot EXO
 
 Last updated: July 7, 2022
 
