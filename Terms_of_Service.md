@@ -1,4 +1,4 @@
-# Terms of Service of the bot EXO
+# Terms of Service of the bot RSK
 
 Last updated: July 7, 2022
 
