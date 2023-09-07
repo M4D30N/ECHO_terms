@@ -1,6 +1,6 @@
-# Terms of Service of the bot RSK
+# Terminos de servicio del Bot SRK.
 
-Last updated: September 7, 2022
+Ultima Actualizacion: Septiembre 07, 2022
 
 Descargo de responsabilidad: Al añadir y utilizar este bot, aceptas todo lo expuesto en estas Condiciones del servicio. Si no está de acuerdo, elimine este bot y solicite que se borren sus datos.
 
