@@ -1,18 +1,32 @@
 # Terms of Service of the bot RSK
 
-Last updated: July 7, 2022
+Last updated: September 7, 2022
 
-Disclaimer: By adding and using this bot, you agree to everything within this Terms of Service. If you disagree, please remove this bot and request that your data be deleted.
+Descargo de responsabilidad: Al añadir y utilizar este bot, aceptas todo lo expuesto en estas Condiciones del servicio. Si no está de acuerdo, elimine este bot y solicite que se borren sus datos.
 
-## Definitions
+## 1. Aceptación de los Términos de Servicio
+Al utilizar el bot de Discord RSK, aceptas y te comprometes a cumplir con estos términos de servicio. Si no estás de acuerdo con alguno de estos términos, te recomendamos que dejes de usar el bot de inmediato.
 
-For the purposes of this Terms of Service:
+## 2. Uso Apropiado
+**2.1.** RSK está destinado para su uso en servidores de Discord y proporciona ciertas funciones o características específicas.
 
-- **User** or **Account** ("you") means a unique account created by you on the Discord chat platform.
-- **Guild** or **Server** means a server or guild on the Discord chat platform.
+**2.2.** No está permitido utilizar RSK para actividades ilegales o inmorales, incluyendo, pero no limitado a, el spam, el acoso, la difamación, la distribución de contenido ofensivo o ilegal, o cualquier otra actividad que viole los términos de servicio de Discord.
 
+## 3. Responsabilidad
+**3.1.** RSK se proporciona "tal cual" y no ofrecemos garantías de ningún tipo, ya sean expresas o implícitas, sobre su funcionamiento o disponibilidad.
 
-## Terms of Service
-**For Guild:** If our team notices a use of the bot not intended for this purpose, such as the use of bug, the use with aim of harassment or any other case punished by the law, the team has all the rights to leave the bot from the server. 
+**3.2.** No somos responsables de ningún daño directo, indirecto, incidental, especial o consecuente que pueda surgir del uso o la incapacidad de utilizar RSK.
 
-**For Users:** If our team notices any abuse of the bot, whether it be the use of bugs, harassment or any other case punishable by law, we reserve the right to prohibit the use of the RSK bot by this member.
+## 4. Privacidad
+**4.1.** RSK puede recopilar y almacenar ciertos datos de los usuarios en el servidor de Discord, según sea necesario para el funcionamiento de los servicios. Esto puede incluir información como ID de usuario, nombre de usuario, y registros de comandos.
+
+**4.2.** Nos comprometemos a mantener la privacidad y seguridad de los datos recopilados y a no compartirlos con terceros, a menos que sea requerido por la ley.
+
+## 5. Cambios en los Términos de Servicio
+Nos reservamos el derecho de modificar estos términos de servicio en cualquier momento. Los cambios entrarán en vigencia inmediatamente después de su publicación. Es tu responsabilidad revisar estos términos regularmente para estar al tanto de cualquier actualización.
+
+## 6. Terminación
+Nos reservamos el derecho de terminar o suspender tu acceso a RSK en cualquier momento y por cualquier razón, sin previo aviso.
+
+## 7. Contacto
+Si tienes alguna pregunta o inquietud sobre estos términos de servicio, puedes contactarnos en rsk.soporte@gmail.com
