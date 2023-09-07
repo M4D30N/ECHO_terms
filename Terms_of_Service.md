@@ -15,4 +15,4 @@ For the purposes of this Terms of Service:
 ## Terms of Service
 **For Guild:** If our team notices a use of the bot not intended for this purpose, such as the use of bug, the use with aim of harassment or any other case punished by the law, the team has all the rights to leave the bot from the server. 
 
-**For Users:** If our team notices any abuse of the bot, whether it be the use of bugs, harassment or any other case punishable by law, we reserve the right to prohibit the use of the GC 2.0 bot by this member.
+**For Users:** If our team notices any abuse of the bot, whether it be the use of bugs, harassment or any other case punishable by law, we reserve the right to prohibit the use of the RSK bot by this member.
